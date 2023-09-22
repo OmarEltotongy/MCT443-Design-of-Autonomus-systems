@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/abdulrahman/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/abdulrahman/catkin_ws/src/autonomous_milestone1/include/**",
+        "/home/abdulrahman/catkin_ws/src/autonomous_milestone2/include/**",
+        "/home/abdulrahman/catkin_ws/src/gazebo_ros_pkgs/gazebo_plugins/include/**",
+        "/home/abdulrahman/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros/include/**",
+        "/home/abdulrahman/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros_control/include/**",
+        "/home/abdulrahman/catkin_ws/src/open_manipulator/open_manipulator_control_gui/include/**",
+        "/home/abdulrahman/catkin_ws/src/open_manipulator/open_manipulator_controller/include/**",
+        "/home/abdulrahman/catkin_ws/src/open_manipulator/open_manipulator_libs/include/**",
+        "/home/abdulrahman/catkin_ws/src/open_manipulator/open_manipulator_teleop/include/**",
+        "/home/abdulrahman/catkin_ws/src/robotics_project/include/**",
+        "/home/abdulrahman/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/abdulrahman/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

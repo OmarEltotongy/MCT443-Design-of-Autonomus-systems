@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/omareltutongy/ros_ws/src/design2_midterm/include/**",
+        "/home/omareltutongy/ros_ws/src/homogenous_transformation/include/**",
+        "/home/omareltutongy/ros_ws/src/husky/husky_base/include/**",
+        "/home/omareltutongy/ros_ws/src/open_manipulator/open_manipulator_control_gui/include/**",
+        "/home/omareltutongy/ros_ws/src/open_manipulator/open_manipulator_controller/include/**",
+        "/home/omareltutongy/ros_ws/src/open_manipulator/open_manipulator_libs/include/**",
+        "/home/omareltutongy/ros_ws/src/open_manipulator/open_manipulator_teleop/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
